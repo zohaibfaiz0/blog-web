@@ -21,7 +21,7 @@ const blogPostsData = [
     image: "/assets/auto.jpg",
     readTime: "7 min read",
     date: "July 10, 2023",
-    page: "/post5        "
+    page: "/post5"
   },
   {
     id: 3,

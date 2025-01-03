@@ -9,9 +9,9 @@ const AboutPage = () => {
       <div className='bg-white p-6 rounded-lg shadow-md mb-6 md:mb-8'>
         <h3 className='text-xl md:text-3xl font-semibold text-black mb-3 md:mb-4'>Introduction</h3>
         <p className='text-sm md:text-xl text-gray-800 leading-relaxed'>
-          Welcome to <span className='font-bold'>The Car Critique!</span> We're excited to have you join our community.
+          Welcome to <span className='font-bold'>The Car Critique!</span> We are excited to have you join our community.
           <span className='font-bold'>The Car Critique!</span> is your go-to destination for everything automotive.
-          Whether you're an enthusiast or just curious, we're here to fuel your passion for cars with engaging,
+          Whether you are an enthusiast or just curious, we are here to fuel your passion for cars with engaging,
           informative content.
         </p>
       </div>
@@ -29,8 +29,8 @@ const AboutPage = () => {
         <h3 className='text-xl md:text-3xl font-semibold text-black mb-3 md:mb-4'>Our Mission</h3>
         <p className='text-sm md:text-xl text-gray-800 leading-relaxed'>
           At <span className='font-bold'>The Car Critique</span>, our mission is simple: to bring you insightful, engaging, and up-to-date content 
-          about the automotive industry. Whether you're a die-hard gearhead, a first-time buyer, or simply 
-          interested in the latest models, we've got something for you.
+          about the automotive industry. Whether you are a die-hard gearhead, a first-time buyer, or simply 
+          interested in the latest models, we have got something for you.
         </p>
       </div>
       
@@ -83,8 +83,8 @@ const AboutPage = () => {
       <div className='bg-white p-6 rounded-lg shadow-md'>
         <h3 className='text-xl md:text-3xl font-semibold text-black mb-3 md:mb-4'>Contact Us</h3>
         <p className='text-sm md:text-xl text-gray-800 leading-relaxed'>
-          Have a question, suggestion, or just want to say hi? We'd love to hear from you! 
-          Drop us a line at <span className='font-bold'>contact@example.com</span>, and we'll get back to you as soon as we can.
+          Have a question, suggestion, or just want to say hi? We would love to hear from you! 
+          Drop us a line at <span className='font-bold'>contact@example.com</span>, and we will get back to you as soon as we can.
         </p>
       </div>
     </div>
