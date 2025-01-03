@@ -47,7 +47,7 @@ const CarMaintenancePost: React.FC = () => {
           Changing Your Oil
         </h2>
         <p className="text-gray-700 mb-6">
-          Changing your oil is one of the most important maintenance tasks. Depending on your vehicle, you may need to change the oil every 3,000 to 7,500 miles. Always refer to your owner’s manual for specific recommendations.
+          Changing your oil is one of the most important maintenance tasks. Depending on your vehicle, you may need to change the oil every 3,000 to 7,500 miles. Always refer to your owners manual for specific recommendations.
         </p>
 
         <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">
@@ -61,7 +61,7 @@ const CarMaintenancePost: React.FC = () => {
           Battery Care
         </h2>
         <p className="text-gray-700 mb-6">
-          A well-maintained battery is crucial for your car's performance. Clean any corrosion from the terminals and ensure that the battery is securely mounted. If your battery is more than three years old, consider having it tested.
+          A well-maintained battery is crucial for your cars performance. Clean any corrosion from the terminals and ensure that the battery is securely mounted. If your battery is more than three years old, consider having it tested.
         </p>
 
         <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">

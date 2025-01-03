@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaCar, FaUsers, FaClipboardList, FaTools, FaNewspaper } from 'react-icons/fa';
+import {FaUsers, FaClipboardList, FaTools, FaNewspaper } from 'react-icons/fa';
 
 const AboutPage = () => {
   return (

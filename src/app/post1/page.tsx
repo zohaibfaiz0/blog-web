@@ -32,42 +32,48 @@ const ElectricVehiclesPost: React.FC = () => {
       {/* Article Content */}
       <div className="prose max-w-none">
         <p className="text-lg text-gray-700 mb-6">
-          The automotive industry is witnessing a revolutionary transformation with electric vehicles (EVs) leading the charge towards a sustainable future. As we delve into the latest advancements in EV technology, it's clear that we're on the cusp of a new era in transportation.
+          The automotive industry is witnessing a revolutionary transformation with electric vehicles (EVs) leading the charge towards a sustainable future.
+          As we delve into the latest advancements in EV technology, clear that were on the cusp of a new era in transportation.
         </p>
 
         <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">
           Technological Breakthroughs
         </h2>
         <p className="text-gray-700 mb-6">
-          Recent developments in battery technology have significantly improved the range and performance of electric vehicles. Solid-state batteries, currently in development, promise even greater energy density and faster charging times, potentially eliminating range anxiety altogether.
+          Recent developments in battery technology have significantly improved the range and performance of electric vehicles.
+          Solid-state batteries, currently in development, promise even greater energy density and faster charging times, potentially eliminating range anxiety altogether.
         </p>
 
         <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">
           Infrastructure Development
         </h2>
         <p className="text-gray-700 mb-6">
-          The global charging infrastructure is expanding rapidly, with new fast-charging stations being installed worldwide. Smart charging solutions and vehicle-to-grid technology are creating a more integrated and efficient energy ecosystem.
+          The global charging infrastructure is expanding rapidly, with new fast-charging stations being installed worldwide.
+          Smart charging solutions and vehicle-to-grid technology are creating a more integrated and efficient energy ecosystem.
         </p>
 
         <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">
           Environmental Impact
         </h2>
         <p className="text-gray-700 mb-6">
-          As electricity grids become greener and manufacturing processes more sustainable, the environmental benefits of EVs continue to grow. Manufacturers are increasingly focusing on recyclable materials and circular economy principles in vehicle production.
+          As electricity grids become greener and manufacturing processes more sustainable, the environmental benefits of EVs continue to grow.
+          Manufacturers are increasingly focusing on recyclable materials and circular economy principles in vehicle production.
         </p>
 
         <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">
           Market Trends and Consumer Adoption
         </h2>
         <p className="text-gray-700 mb-6">
-          With more affordable models entering the market and government incentives supporting adoption, electric vehicles are becoming increasingly accessible to mainstream consumers. Major automakers are committing to all-electric lineups within the next decade.
+          With more affordable models entering the market and government incentives supporting adoption, electric vehicles are becoming
+          increasingly accessible to mainstream consumers. Major automakers are committing to all-electric lineups within the next decade.
         </p>
 
         <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">
           Looking Ahead
         </h2>
         <p className="text-gray-700 mb-12">
-          The future of electric vehicles looks promising, with continuous innovations in technology, increasing consumer acceptance, and strong governmental support worldwide. As we move forward, EVs will play a crucial role in creating a more sustainable transportation ecosystem.
+          The future of electric vehicles looks promising, with continuous innovations in technology, increasing consumer acceptance,
+          and strong governmental support worldwide. As we move forward, EVs will play a crucial role in creating a more sustainable transportation ecosystem.
         </p>
       </div>
 

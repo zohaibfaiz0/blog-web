@@ -32,14 +32,14 @@ const AutomotiveLifestylePost: React.FC = () => {
       {/* Article Content */}
       <div className="prose max-w-none">
         <p className="text-lg text-gray-700 mb-6">
-          The automotive lifestyle is more than just owning a car; it's a passion that encompasses the thrill of driving, the joy of customization, and the camaraderie of fellow enthusiasts. In this article, we explore what it means to embrace this lifestyle and how it can enrich your life.
+          The automotive lifestyle is more than just owning a car; its a passion that encompasses the thrill of driving, the joy of customization, and the camaraderie of fellow enthusiasts. In this article, we explore what it means to embrace this lifestyle and how it can enrich your life.
         </p>
 
         <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">
           The Thrill of Driving
         </h2>
         <p className="text-gray-700 mb-6">
-          For many, driving is an exhilarating experience. Whether it's a scenic road trip or a spirited drive on winding roads, the connection between driver and machine is a core aspect of the automotive lifestyle. Finding the right routes and enjoying the journey is what makes driving special.
+          For many, driving is an exhilarating experience. Whether its a scenic road trip or a spirited drive on winding roads, the connection between driver and machine is a core aspect of the automotive lifestyle. Finding the right routes and enjoying the journey is what makes driving special.
         </p>
 
         <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">
@@ -60,14 +60,14 @@ const AutomotiveLifestylePost: React.FC = () => {
           The Joy of Maintenance
         </h2>
         <p className="text-gray-700 mb-6">
-          Maintaining your vehicle is an integral part of the automotive lifestyle. Understanding your car's mechanics and performing routine maintenance not only keeps your vehicle in top shape but also deepens your appreciation for it. Plus, there's a sense of satisfaction that comes from caring for your own ride.
+          Maintaining your vehicle is an integral part of the automotive lifestyle. Understanding your cars mechanics and performing routine maintenance not only keeps your vehicle in top shape but also deepens your appreciation for it. Plus, theres a sense of satisfaction that comes from caring for your own ride.
         </p>
 
         <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">
           Exploring the Open Road
         </h2>
         <p className="text-gray-700 mb-12">
-          The open road beckons adventurers to explore new destinations. Whether it's a weekend getaway or a cross-country journey, the automotive lifestyle encourages exploration and discovery. Embrace the freedom that comes with driving and create unforgettable memories along the way.
+          The open road beckons adventurers to explore new destinations. Whether its a weekend getaway or a cross-country journey, the automotive lifestyle encourages exploration and discovery. Embrace the freedom that comes with driving and create unforgettable memories along the way.
         </p>
       </div>
 
